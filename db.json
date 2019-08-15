@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"first_name":"Dove, little brown","category":"Purple"},
+{"id":2,"first_name":"Rock dove","category":"Mauv"},
+{"id":3,"first_name":"Bandicoot, short-nosed","category":"Goldenrod"},
+{"id":4,"first_name":"Fox, silver-backed","category":"Mauv"},
+{"id":5,"first_name":"Pademelon, red-legged","category":"Fuscia"},
+{"id":6,"first_name":"Kangaroo, black-faced","category":"Orange"},
+{"id":7,"first_name":"Dolphin, bottle-nose","category":"Yellow"},
+{"id":8,"first_name":"Peccary, white-lipped","category":"Goldenrod"},
+{"id":9,"first_name":"Duck, mountain","category":"Khaki"},
+{"id":10,"first_name":"Racer, american","category":"Yellow"},
+{"id":11,"first_name":"Gray duiker","category":"Crimson"},
+{"id":12,"first_name":"Long-tailed spotted cat","category":"Crimson"},
+{"id":13,"first_name":"Waxbill, violet-eared","category":"Puce"},
+{"id":14,"first_name":"Lava gull","category":"Yellow"},
+{"id":15,"first_name":"White-browed owl","category":"Maroon"},
+{"id":16,"first_name":"Black-fronted bulbul","category":"Turquoise"},
+{"id":17,"first_name":"Black-fronted bulbul","category":"Turquoise"},
+{"id":18,"first_name":"White-browed owl","category":"Aquamarine"},
+{"id":19,"first_name":"Blue shark","category":"Blue"},
+{"id":20,"first_name":"Black-backed jackal","category":"Puce"}
+]
+}
